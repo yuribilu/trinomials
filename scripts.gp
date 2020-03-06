@@ -1,9 +1,5 @@
 /* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-\r C:\Users\ybilu\Dropbox\art\trinom\scripts.gp
-
-C:/Users/ybilu/Dropbox/art/trinom/deltas3.txt
-
 PARI macros and scripts used for the article 
 
 "Trinomials, singular moduli and Riffaut's conjecture"
