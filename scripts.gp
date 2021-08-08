@@ -829,7 +829,7 @@ roots= d^(-1)*sigmods(Delta);
 X=roots[1];
 Y=roots[2];
 
-lambda=(3/2)*((log(abs(X)))/(log(abs(X/Y))))*(p^nu)/r; 
+lambda=((2*log(abs(X))+log(abs(Y)))/(log(abs(X/Y))))*(p^nu)/r; 
 
 mu=(3*log(2)+log(2.01))/(log(abs(X/Y)))*(p^nu)/r; 
 
